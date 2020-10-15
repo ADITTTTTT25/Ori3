@@ -1,0 +1,100 @@
+h1 {
+  color: #ffffff;
+}
+a:link {
+  color: #ffffff;
+}
+a:visited {
+  color: red;
+}
+.header {
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+}
+.hm1 {
+  margin: 25px;
+}
+.hm2 {
+  margin: 25px;
+}
+body {
+  margin: 0px;
+  background-color: blanchedalmond;
+}
+.text {
+  border-radius: 20px;
+  background-color: #ffffff;
+  padding: 30px;
+  margin: 25px;
+  width: 3000px;
+  font-family: fantasy;
+}
+.Beginner {
+  margin: 50px;
+  padding: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.beginnerHeading {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+.BeginnerText {
+  margin: 50px;
+  padding: 50px;
+  display: flex;
+  justify-content: space-between;
+  font-family: fantasy;
+  font-size: 25px;
+}
+
+.Intermediate {
+  margin: 50px;
+  padding: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.intermediateHeading {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+
+.IntermediateText {
+  margin: 50px;
+  padding: 50px;
+  display: flex;
+  justify-content: space-between;
+  font-family: fantasy;
+  font-size: 25px;
+}
+
+.hardHeading {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+
+.Hard {
+  margin: 50px;
+  padding: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.HardText {
+  margin: 50px;
+  padding: 50px;
+  display: flex;
+  justify-content: space-between;
+  font-family: fantasy;
+  font-size: 25px;
+}
+
+.chooser {
+  display: flex;
+  justify-content: space-evenly;
+}
